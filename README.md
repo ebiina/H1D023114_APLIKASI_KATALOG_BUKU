@@ -1,4 +1,6 @@
-# 📚 Aplikasi Katalog Buku Digital – Flutter + GetX
+# Aplikasi Katalog Buku Digital – Flutter + GetX
+
+![Demo Aplikasi](assets/katalogbuku.gif)
 
 Aplikasi ini dibuat menggunakan **Flutter** dengan **GetX** sebagai state management dan navigasi.  
 Tema desain yang digunakan bernuansa **pink pastel elegan**, menampilkan daftar buku, detail, genre, serta halaman tentang dan kontak perpustakaan.
